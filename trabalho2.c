@@ -1,7 +1,7 @@
 /*************************************************** 
  *       TRABALHO 1 ANÁLISE DE DESEMEPENHO         *
  *         Prof.: Flávio Barbieri Gonzaga          *
- *   Marcus Vinicius Garcia Miguel 2017.1.08.039   *
+ *         Marcus Vinicius Garcia Miguel           *
  *          Data de Entrega: 10/09/2021            * 
  *    Para todas as ocupações os valores serão:    *
  *                                                 *
